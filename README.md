@@ -4,6 +4,5 @@ I'm a hardware design engineer who is passionate about creating electronic devic
 
 My pleasure to make you familiar with my projects. Feel free to contact me. 
 
-💬 Ask me about ...
-📫 How to reach me: ...
+📫 vpodlesniy1996@gmail.com
 
