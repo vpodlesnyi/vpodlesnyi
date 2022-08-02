@@ -5,5 +5,6 @@ I'm a hardware design engineer who is passionate about creating electronic devic
 My pleasure to make you familiar with my projects. Feel free to contact me. I will be happy to contribute with you my altium library 😊
 
 📫 vpodlesniy1996@gmail.com
+
 my channel [JUST MODEL IT](https://www.youtube.com/channel/UCoNTV8hdYqtWGnWhq0Xz1Yw)
 
