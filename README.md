@@ -8,5 +8,5 @@ My pleasure to make you familiar with my projects. Feel free to contact me. I wi
 
 📫 vpodlesniy1996@gmail.com
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp.png" width="30px">
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73
 
