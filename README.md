@@ -9,7 +9,8 @@ More information about my education, carrier and experience on my [website].
 <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73
 
 [<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/linkedin.png" width="30px">][linkedin]
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/insta1.png" width="30px">
+[<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/youtube1.png" width="30px">][youtube]
+[<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/www.png" width="30px">][website]
 
 [website]: https://vpodlesniy1996.wixsite.com/mysite-12 
 [youtube]: https://www.youtube.com/channel/UCoNTV8hdYqtWGnWhq0Xz1Yw
