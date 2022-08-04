@@ -4,7 +4,9 @@ I'm a hardware design engineer who is passionate about creating electronic devic
 
 More information about my education, experience and portfolio on my [website].
 
-### Connect with me:
+## Technical Expertise
+
+## Connect with me:
 
 <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73
 
