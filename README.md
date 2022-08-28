@@ -5,7 +5,7 @@ I'm a hardware design engineer who is passionate about creating electronic devic
 Share my modeling experience on my youtube channel [JUST MODEL IT][youtube].
 Check out my resume and portfolio on my [website].
 
-Find me on: LinkedIn
+Find me on: [LinkedIn]
 
 ### Connect with me:
 
