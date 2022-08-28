@@ -2,7 +2,7 @@
 
 I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and digital electronics. I am keen on modeling schematic and pcb designs. 
 
-Share my modeling experience on my youtube channel [JUST MODEL IT][youtube].
+Share my modeling experience on my youtube channel [JUST MODEL IT][youtube]. <br>
 Check out my resume and portfolio on my [website].
 
 Find me on: [LinkedIn]
