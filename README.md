@@ -1,15 +1,15 @@
 ### Hi there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Podlesnyi Vasilii 
 
-I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and digital electronics. I am keen on modeling schematic and pcb designs. 
+I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and digital electronics.<br> I am keen on modeling schematic and pcb designs. 
 
-Share my modeling experience on my youtube channel [JUST MODEL IT][youtube]. <br>
+I share my modeling experience on my youtube channel [JUST MODEL IT][youtube].
+
 Check out my resume and portfolio on my [website].
 
-Find me on: [LinkedIn]
+### Connect with me: 
 
-### Connect with me:
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73 | [LinkedIn] | [Email]
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73
 
 [<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/linkedin.png" width="30px">][linkedin]
 [<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/youtube1.png" width="30px">][youtube]
@@ -18,3 +18,4 @@ Find me on: [LinkedIn]
 [website]: https://vpodlesniy1996.wixsite.com/mysite-12 
 [youtube]: https://www.youtube.com/channel/UCoNTV8hdYqtWGnWhq0Xz1Yw
 [LinkedIn]: https://www.linkedin.com/in/vpodlesnyi
+[Email]: vpodlesniy1996@gmail.com
