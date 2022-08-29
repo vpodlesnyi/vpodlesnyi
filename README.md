@@ -8,7 +8,7 @@ Check out my resume and portfolio on my [Website].
 
 ### Connect with me: 
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73 | [LinkedIn] | [Youtube] | [Website]
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73 | [LinkedIn] | [Youtube] | [Website] | vpodlesniy1996@gmail.com
 
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
