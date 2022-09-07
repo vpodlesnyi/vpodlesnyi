@@ -15,7 +15,7 @@ Check out my resume and portfolio on my [Website].
 |--|--|--|--|
 | Hardware Embedded Development | Cadence OrCad<br>Altium Designer</br> | 2<br>5</br> | Intermediate<br>Advanced</br> |
 | Design Simulations | LTSpice, MicroCap, Cadence Sigrity  | 3 | Intermediate |
-| Power Management | Buck, Boost, Buck-boost, Cuk, SEPIC, LDO, Flyback, Forward, power budget calc. | 5 | Advanced |
+| Power Management | Buck, Boost, Buck-boost, Cuk, SEPIC, Zeta, LDO, Flyback, Forward, power budget calc. | 5 | Advanced |
 | Digital Interfaces | UART, SPI, I2C, USB, CAN, RS422/485, LVDS | 5 | Advanced |
 | Motor Drivers | PMSM, BLDC, DC motors, servo | 4 | Advanced |
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 4 | Advanced |
