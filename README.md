@@ -2,13 +2,9 @@
 
 I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and digital electronics.<br> I am keen on modeling schematic and pcb designs. 
 
-I share modeling experience on my youtube channel [JUST MODEL IT][Youtube].
-
-Check out my resume and portfolio on my [Website].
-
 ### Connect with me: 
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73 | [LinkedIn] | [Youtube] | [Website] | vpodlesniy1996@gmail.com
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+7 (911) 218-39-73 | [LinkedIn] | vpodlesniy1996@gmail.com
 
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
