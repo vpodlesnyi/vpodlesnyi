@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Podlesnyi Vasilii 
 
-I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and digital electronics.<br> I am keen on modeling schematic and pcb designs. 
+I'm a hardware design engineer who is passionate about creating electronic devices in the field of power, analog and IoT electronics.<br> I am keen on modeling schematic and pcb designs. 
 
 ### Connect with me: 
 
