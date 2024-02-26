@@ -15,7 +15,7 @@ With a robust 7-year background in electronics, specializing in IoT, healthcare,
 | Digital Interfaces | UART, SPI, I2C, CAN, RS422/485, LVDS | 7 | Advanced |
 | High Speed Interfaces | USB, Ethernet | 4 | Advanced |
 | RF | Wi-Fi, Bluetooth, NB-IoT, GSM | 2 | Intermediate |
-| FPGA | Hardware Development Lattice MachXO2 | 1 | Basic |
+| FPGA | Hardware Development Lattice MachXO | 1 | Basic |
 | Motor Drivers | PMSM, BLDC, DC motors, servo | 6 | Advanced |
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 4 | Advanced |
 | Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
