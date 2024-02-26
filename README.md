@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Podlesnyi Vasilii 
+### Hey there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Podlesnyi Vasilii 
 
 With a robust 7-year background in electronics, specializing in IoT, healthcare, and robotics, I've led over 30 projects to successful completion and managed small batch productions of up to 1000 units annually. As a team leader for 8 members, I've honed skills in project management and mentoring, driving both project success and team development.
 
@@ -15,7 +15,7 @@ With a robust 7-year background in electronics, specializing in IoT, healthcare,
 | Digital Interfaces | UART, SPI, I2C, CAN, RS422/485, LVDS | 7 | Advanced |
 | High Speed Interfaces | USB, Ethernet | 4 | Advanced |
 | RF | Wi-Fi, Bluetooth, NB-IoT, GSM | 2 | Intermediate |
-| FPGA | Hardware Development | 1 | Basic |
+| FPGA | Hardware Development Lattice MachXO2 | 1 | Basic |
 | Motor Drivers | PMSM, BLDC, DC motors, servo | 6 | Advanced |
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 4 | Advanced |
 | Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
