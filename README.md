@@ -19,6 +19,7 @@ With a robust 7-year background in electronics, specializing in IoT, healthcare,
 | Motor Drivers | PMSM, BLDC, DC motors, servo | 6 | Advanced |
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 4 | Advanced |
 | Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
+| EMC | FCC, EMI, signal and power integrity technics | 2 | Intermediate |
 | Programming Languages | C/C++ | 2 | Intermediate |
 | Software Embedded Development | ARM GCC | 2 | Intermediate |
 | Mechanical design | SolidWorks | 2 | Intermediate |
