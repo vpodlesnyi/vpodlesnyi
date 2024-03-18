@@ -12,7 +12,7 @@ With a robust 7-year background in electronics, specializing in IoT, healthcare,
 | Hardware Embedded Development | Cadence OrCad<br>Altium Designer</br> | 2<br>7</br> | Intermediate<br>Advanced</br> |
 | Design Simulations | LTSpice, MicroCap, Cadence Sigrity  | 3 | Intermediate |
 | Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. | 7 | Advanced |
-| Battery Management | Li-ion, Li-SOCl2 | 1 | Basic |
+| Battery Management | Li-ion, Li-SOCl2 | 2 | Intermediate |
 | Digital Interfaces | UART, SPI, I2C, CAN, RS422/485, LVDS | 7 | Advanced |
 | High Speed Interfaces | USB, Ethernet | 4 | Advanced |
 | RF | Wi-Fi, Bluetooth, NB-IoT, GSM | 2 | Intermediate |
