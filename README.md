@@ -4,7 +4,7 @@ With a robust 7-year background in electronics, specializing in IoT, healthcare,
 
 ### Connect with me: 
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+48 571 273 333 | [LinkedIn] | vpodlesniy1996@gmail.com
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+48 571 273 333 | [LinkedIn] | podlesnyielectronics@gmail.com
 
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
