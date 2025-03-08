@@ -1,4 +1,4 @@
-### Hey there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Podlesnyi Vasilii 
+### Hey there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Vasilii Podlesnyi  
 
 With a robust 7-year background in electronics, specializing in IoT, healthcare, and robotics, I've led over 30 projects to successful completion and managed small batch productions of up to 1000 units annually. As a team leader for 8 members, I've honed skills in project management and mentoring, driving both project success and team development.
 
