@@ -24,8 +24,7 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 | Programming Languages | C/C++ | 2 | Intermediate |
 | Software Embedded Development | ARM GCC | 2 | Intermediate |
 | Mechanical design | SolidWorks | 2 | Intermediate |
-| Project management | Agile | 3 | Intermediate |
+| Project management | Scrum | 3 | Intermediate |
 
 [Website]: https://vpodlesniy1996.wixsite.com/mysite-12 
-[Youtube]: https://www.youtube.com/channel/UCoNTV8hdYqtWGnWhq0Xz1Yw
 [LinkedIn]: https://www.linkedin.com/in/vpodlesnyi
