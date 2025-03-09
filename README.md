@@ -13,15 +13,15 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 | Design Simulations | LTSpice, MicroCap, Cadence Sigrity  | 4 | Advanced |
 | Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. | 8 | Advanced |
 | Battery Management | Li-ion, Li-SOCl2 | 2 | Intermediate |
-| Digital Interfaces | UART, SPI, I2C, CAN, RS422/485, LVDS | 8 | Advanced |
-| High Speed Interfaces | DDR3, USB3.0, Ethernet, RGMII | 4 | Advanced |
+| Digital Interfaces | UART, SPI, I2C, CAN, RS422/485 | 8 | Advanced |
+| High Speed Interfaces | DDR3, USB3.0, Ethernet, RGMII, SATA, PCIe, HDMI, LVDS | 4 | Advanced |
 | RF | Wi-Fi, Bluetooth, NB-IoT, GSM, LoRa | 3 | Intermediate |
 | FPGA | Hardware Development Lattice MachXO | 1 | Basic |
 | Motor Drivers | PMSM, BLDC, DC motors, servo | 7 | Advanced |
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 5 | Advanced |
 | Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
 | EMC | FCC, EMI, signal and power integrity technics | 3 | Intermediate |
-| Programming Languages | C/C++ | 2 | Intermediate |
+| Programming Languages | C/C++, C# | 2 | Intermediate |
 | Software Embedded Development | ARM GCC | 2 | Intermediate |
 | Mechanical design | SolidWorks | 2 | Intermediate |
 | Project management | Scrum | 3 | Intermediate |
