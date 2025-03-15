@@ -10,6 +10,7 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 || Technology | Years of Experience | Proficiency
 |--|--|--|--|
 | Hardware Embedded Development | Cadence OrCad<br>Altium Designer</br> | 2<br>8</br> | Intermediate<br>Advanced</br> |
+| Standards | UL 6200, UL 840, 60601-1, 60601-2-4 | 2 | Intermediate |
 | Design Simulations | LTSpice, MicroCap, Cadence Sigrity  | 4 | Advanced |
 | Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. | 8 | Advanced |
 | Battery Management | Li-ion, Li-SOCl2 | 2 | Intermediate |
