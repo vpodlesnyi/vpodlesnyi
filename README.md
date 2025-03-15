@@ -4,7 +4,7 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 
 ### Connect with me: 
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+48 571 273 333 | [LinkedIn] | podlesnyielectronics@gmail.com
+<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+48 571 273 333 | [LinkedIn] | podlesnyielectronics@gmail.com | [Website]
 
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
@@ -27,5 +27,5 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 | Mechanical design | SolidWorks | 2 | Intermediate |
 | Project management | Scrum | 3 | Intermediate |
 
-[Website]: https://vpodlesniy1996.wixsite.com/mysite-12 
+[Website]: https://www.podlesnyielectronics.com/
 [LinkedIn]: https://www.linkedin.com/in/vpodlesnyi
