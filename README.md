@@ -21,7 +21,8 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 | Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 5 | Advanced |
 | Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
 | EMC | EMI, signal and power integrity technics | 3 | Intermediate |
-| Standards | FCC, UL 6200, UL 840, IEC 60601-1 | 2 | Intermediate |
+| Industry standards | FCC, UL 6200, UL 840, IEC 60601-1 | 2 | Intermediate |
+| Lab Measurement Equipment | Oscilloscope, Spectrum Analyzer, Electronic Load | 8 | Advanced |
 | Programming Languages | C/C++, C# | 2 | Intermediate |
 | Software Embedded Development | ARM GCC | 2 | Intermediate |
 | Mechanical design | SolidWorks | 2 | Intermediate |
