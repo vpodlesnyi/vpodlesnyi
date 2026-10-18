@@ -7,8 +7,8 @@ Hardware engineer with 9+ years across space, marine robotics, energy, IoT and p
 [LinkedIn] | podlesnyielectronics@gmail.com | [Website-portfolio]
 
 ### Technical expertise
-|| Technology | Years of Experience | Proficiency
-|--|--|--|--|
+| Area | Technology
+|--|--|
 | Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. |
 | Motor Drivers | PMSM, BLDC, DC motors, servo |
 | Low-power & battery design | Li-ion, Li-SOCl2 |
