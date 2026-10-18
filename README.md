@@ -4,29 +4,28 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 
 ### Connect with me: 
 
-<img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/whatsapp1.png" width="18px">+48 571 273 333 | [LinkedIn] | podlesnyielectronics@gmail.com | [Website-portfolio]
+[LinkedIn] | podlesnyielectronics@gmail.com | [Website-portfolio]
 
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
 |--|--|--|--|
-| Hardware Embedded Development | Cadence OrCad<br>Altium Designer</br> | 2<br>8</br> | Intermediate<br>Advanced</br> |
-| Design Simulations | LTSpice, MicroCap, Cadence Sigrity  | 4 | Advanced |
-| Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. | 8 | Advanced |
-| Battery Management | Li-ion, Li-SOCl2 | 2 | Intermediate |
-| Digital Interfaces | UART, SPI, I2C, CAN, RS422/485 | 8 | Advanced |
-| High Speed Interfaces | DDR3, USB3.0, Ethernet, RGMII, SATA, PCIe, HDMI, LVDS | 4 | Advanced |
-| RF | Wi-Fi, Bluetooth, NB-IoT, GSM, LoRa | 3 | Intermediate |
-| FPGA | Hardware Development Lattice MachXO | 1 | Basic |
-| Motor Drivers | PMSM, BLDC, DC motors, servo | 7 | Advanced |
-| Analog schematic design | Sensors, audio, filters, amplifiers, ADC, DAC | 5 | Advanced |
-| Industrial Hardware Development | Industrial controllers, opto/galvanic isolation, ESD | 4 | Advanced |
-| EMC | EMI, signal and power integrity technics | 3 | Intermediate |
-| Industry standards | FCC, UL 6200, UL 840, IEC 60601-1 | 2 | Intermediate |
-| Lab Measurement Equipment | Oscilloscope, Spectrum Analyzer, Electronic Load | 8 | Advanced |
-| Programming Languages | C/C++, C# | 2 | Intermediate |
-| Software Embedded Development | ARM GCC | 2 | Intermediate |
-| Mechanical design | SolidWorks | 2 | Intermediate |
-| Project management | Scrum | 3 | Intermediate |
+
+| Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. |
+| Motor Drivers | PMSM, BLDC, DC motors, servo |
+| Low-power & battery design | Li-ion, Li-SOCl2 |
+| Analog & mixed-signal | Sensors, audio, filters, amplifiers, ADC, DAC |
+| Digital interfaces & logic | UART, SPI, I2C, CAN, RS-422/485, Lattice MachXO |
+| High Speed Interfaces | NXP i.MX, DDR4, eMMC, USB 3.0, Ethernet (RGMII), PCIe, SATA, HDMI, LVDS |
+| RF | Wi-Fi, Bluetooth, NB-IoT, GSM, LoRa |
+| EMC & protection | EMC-driven layout, grounding and stack-up, SI/PI, ESD, opto/galvanic isolation |
+| Compliance | CE, FCC Part 15, UL 62368-1, UL 840, IEC 61010-1, EN 61000-6-2/-3|
+| NPI | EVT, DVT, PVT, DFM, manufacturing release packages |
+| Systems engineering | System integration, cross-team interfaces, integration testing, Scrum, Kanban |
+| Lab Measurement Equipment | Oscilloscope, spectrum analyzer, VNA, electronic load |
+| Design EDA | Cadence OrCad<br>Altium Designer</br> |
+| Design Simulations | LTSpice, MicroCap, Cadence Sigrity  |
+| Programming Languages | C/C++, C#, Python |
+| Mechanical design | SolidWorks |
 
 [Website-portfolio]: https://www.podlesnyielectronics.com/
 [LinkedIn]: https://www.linkedin.com/in/vpodlesnyi
