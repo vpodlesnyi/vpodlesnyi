@@ -21,7 +21,7 @@ Hardware engineer with 9+ years across space, marine robotics, energy, IoT and p
 | NPI | EVT, DVT, PVT, DFM, manufacturing release packages |
 | Systems engineering | System integration, cross-team interfaces, integration testing, Scrum, Kanban |
 | Lab Measurement Equipment | Oscilloscope, spectrum analyzer, VNA, electronic load |
-| Design EDA | Cadence OrCad<br>Altium Designer</br> |
+| Design EDA | Altium Designer & Cadence OrCad |
 | Design Simulations | LTSpice, MicroCap, Cadence Sigrity  |
 | Programming Languages | C/C++, C#, Python |
 | Mechanical design | SolidWorks |
