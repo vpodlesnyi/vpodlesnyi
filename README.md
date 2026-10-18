@@ -1,6 +1,6 @@
 ### Hey there <img src="https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/hiy.gif" width="30px">, I am Vasilii Podlesnyi  
 
-With a robust 8-year background in electronics, specializing in IoT, robotics, motor drivers and healthcare, I've led over 50 projects to successful completion and managed small batch productions of up to 1000 units annually. As a team leader for 8 members, I've honed skills in project management and mentoring, driving both project success and team development.
+Hardware engineer with 9+ years across space, marine robotics, energy, IoT and powertrain electronics. I design hardware from scratch or take over existing prototypes, and drive them through NPI to production - most recently a PV smart meter now preparing for mass production at 10,000 units per year. I’ve worked as a sole hardware engineer, as a systems engineer integrating electronics, software and mechanics, and as a technical lead coordinating firmware, mechanical, procurement and certification teams.
 
 ### Connect with me: 
 
@@ -9,7 +9,6 @@ With a robust 8-year background in electronics, specializing in IoT, robotics, m
 ### Technical expertise
 || Technology | Years of Experience | Proficiency
 |--|--|--|--|
-
 | Power Management | Buck, Boost, Buck-boost, LDO, Flyback, Forward, PoE, power budget calc. |
 | Motor Drivers | PMSM, BLDC, DC motors, servo |
 | Low-power & battery design | Li-ion, Li-SOCl2 |
