@@ -4,7 +4,7 @@ Hardware engineer with 9+ years across space, marine robotics, energy, IoT and p
 
 ### Connect with me: 
 
-[LinkedIn] | podlesnyielectronics@gmail.com | [Website-portfolio]
+[LinkedIn] | podlesnyielectronics@gmail.com | [Website]
 
 ### Technical expertise
 | Area | Technology
@@ -26,5 +26,5 @@ Hardware engineer with 9+ years across space, marine robotics, energy, IoT and p
 | Programming Languages | C/C++, C#, Python |
 | Mechanical design | SolidWorks |
 
-[Website-portfolio]: https://www.podlesnyielectronics.com/
+[Website]: https://podlesnyielectronics-podlesnyielectroni-1412.wix-site-host.com/
 [LinkedIn]: https://www.linkedin.com/in/vpodlesnyi
